@@ -1,0 +1,21 @@
+# Installations (# modules Installations process 
+    ( 1-open "anaconda prompt",
+     2-type&enter: conda create -n tsf python=3.6,
+      3-type&enter: activate tsf,
+       4-type&enter command: pip install module-name) 
+        '''modules names below''')
+
+pip install streamlit
+
+
+NOTE: modules installation is a one time process in one laptop
+
+
+# run project
+
+open anaconda prompt
+
+
+cd C:\Users\RAJ KUMAR\OneDrive\Desktop\workspace\MPAI11_2022_CODE
+
+streamlit run app.py
